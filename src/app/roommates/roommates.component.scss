@@ -1,0 +1,24 @@
+.clenovia {
+  text-align: center;
+  font-size: 25px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+p.clen {
+  color: #651388;
+  text-shadow: 1px 1px 3px rgb(152 115 224);
+
+  font: {
+    weight: bold;
+    size: 25px;
+  }
+
+  margin: 17px;
+}
+
+img {
+  margin-top: -30px;
+}
